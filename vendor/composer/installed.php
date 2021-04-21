@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '50aacaa527b45085f5e55daa5f53de4201d710ab',
+    'reference' => '77869adf2007c6345679c155c0d824428f7bdbe7',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '50aacaa527b45085f5e55daa5f53de4201d710ab',
+      'reference' => '77869adf2007c6345679c155c0d824428f7bdbe7',
     ),
     'fig/http-message-util' => 
     array (
